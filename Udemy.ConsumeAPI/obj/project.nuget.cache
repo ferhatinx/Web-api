@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yAeW31Q/8Sf0Sy2BsinlLhAz9F1toHytM/lSV5G1OwHoZwuByP1V5yVQANAVYHX1crFwIcW40CzfbOUKIXpyTw==",
+  "success": true,
+  "projectFilePath": "E:\\ASP.NET CORE\\YSKudemy\\webapi\\Udemy.ConsumeAPI\\Udemy.ConsumeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
